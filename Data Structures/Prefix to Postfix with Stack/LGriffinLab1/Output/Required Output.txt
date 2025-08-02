@@ -1,0 +1,11 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+The expression on this line was invalid.
+The expression on this line was invalid.
+The expression on this line was invalid.
+ABC+$CBA-+*
+The expression on this line was invalid.
+The expression on this line was invalid.
