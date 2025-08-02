@@ -1,0 +1,34 @@
+The prefix expression is: -+ABC
+The infix expression is: A+B-C
+The postfix expression is: AB+C-
+
+The prefix expression is: -A+BC
+The infix expression is: A-B+C
+The postfix expression is: ABC+-
+
+The prefix expression is: $+-ABC+D-EF
+The infix expression is: A-B+C$D+E-F
+The postfix expression is: AB-C+DEF-+$
+
+The prefix expression is: -*A$B+C-DE*EF
+The infix expression is: A*B$C+D-E-E*F
+The postfix expression is: ABCDE-+$*EF*-
+
+The prefix expression is: **A+BC+C-BA
+The infix expression is: A*B+C*C+B-A
+The postfix expression is: ABC+*CBA-+*
+
+The statement on this line was invalid.
+
+The statement on this line was invalid.
+
+The statement on this line was invalid.
+
+The prefix expression is: *$A+BC+C-BA
+The infix expression is: A$B+C*C+B-A
+The postfix expression is: ABC+$CBA-+*
+
+The statement on this line was invalid.
+
+The statement on this line was invalid.
+

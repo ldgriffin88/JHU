@@ -1,0 +1,20 @@
+The statement on this line was invalid.
+
+The prefix expression is: A
+The infix expression is: A
+The postfix expression is: A
+
+The prefix expression is: +AB
+The infix expression is: A+B
+The postfix expression is: AB+
+
+The statement on this line was invalid.
+
+The prefix expression is: +AB
+The infix expression is: A+B
+The postfix expression is: AB+
+
+The statement on this line was invalid.
+
+The statement on this line was invalid.
+
