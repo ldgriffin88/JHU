@@ -1,0 +1,15 @@
+asc50.dat, Quicksort Variant 1, 50, 1275, 0
+asc50.dat, Quicksort Variant 2, 50, 100, 0
+asc50.dat, Quicksort Variant 3, 50, 100, 0
+asc50.dat, Quicksort Variant 4, 50, 335, 0
+asc50.dat, MergeSort, 50, 50, 0
+ran50.dat, Quicksort Variant 1, 50, 248, 70
+ran50.dat, Quicksort Variant 2, 50, 421, 356
+ran50.dat, Quicksort Variant 3, 50, 421, 356
+ran50.dat, Quicksort Variant 4, 50, 261, 64
+ran50.dat, MergeSort, 50, 244, 0
+rev50.dat, Quicksort Variant 1, 50, 1250, 25
+rev50.dat, Quicksort Variant 2, 50, 1227, 1129
+rev50.dat, Quicksort Variant 3, 50, 1227, 1129
+rev50.dat, Quicksort Variant 4, 50, 286, 25
+rev50.dat, MergeSort, 50, 182, 0
